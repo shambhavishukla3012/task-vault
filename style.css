@@ -1,0 +1,49 @@
+
+.main{
+    height:auto;
+    width:500px;
+    margin:auto;
+    padding:30px 0;
+    background:linear-gradient(yellow,orange);
+}
+#name{
+    margin-top:20px;
+    margin-left:20px
+}
+#msg{
+    text-align: center;
+    margin-top: 20px;
+}
+table input[type=button]{
+   display:none ;}
+.main h1{
+    padding-top:20px;
+    text-align: center;
+}
+h2{
+    text-align:center
+}
+form{
+    margin:auto;
+    max-width:300px
+}
+table{
+    max-width:80%;
+    margin:auto;
+    text-align: center;
+    word-wrap: break-word;
+}
+input[value="Clear All"]{
+    width:20%;
+    margin:10px 40%;
+}
+.edt{
+color: green;
+}
+.dlt{
+color:red;
+}
+.nm{
+    text-align: start;
+    max-width:250px
+}
